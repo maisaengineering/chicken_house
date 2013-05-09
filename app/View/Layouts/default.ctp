@@ -22,34 +22,29 @@
 		<div class="mainbody">
 			<table>
 				<td>
-					<span id="logo"><img src="img/logo.png"/></span>
+					<span id="logo"><a href="Home"><img src="img/logo.png"/></a></span>
 				</td>
 				<td class="headertable2">
-				Working Hours: 24x7/365 days<br>
-				Contact Us: 040-64627227
-				<div class="likebuttons">
-						<div class="addthis_toolbox addthis_default_style ">
-							<div id="facebook"><a class="addthis_button_facebook_like" addthis:url="http://localhost/chicken_house/"></a></div>
-							<div id="tweet"><a class="addthis_button_tweet" addthis:url="http://localhost/chicken_house/"></a></div>
-							<div id="share"><a class="addthis_counter addthis_pill_style" addthis:url="http://localhost/chicken_house/"></a></div>
-						</div>
-						<script type="text/javascript" src="js/likebuttons.js"></script>
-				</div>
+				Email: chickenhouse@rediffmail.com<br>
+				Contact Us: 040-6521 1119
 				</td>
 			</table>
 			<div id="menubar">
 				<ul id="menu">
 					<li>
-						<a href="Home"><span class="menuselected">Home</span></a>
+						<a href="Home">Home</a>
+					</li>
+					<li>
+					  <a href="Products">Products</a>
 					</li>
 					<li>
 						<a href="AboutUs">About Us</a>
 					</li>
 					<li>
-						<a href="ContactUs">Order Here</a>
+						<a href="ContactUs">ContactUs</a>
 					</li>
 					<li>
-						<a href="Locations">Locations</a>
+						<a href="OurBranches">OurBranches</a>
 					</li>
 				</ul>
 			</div>

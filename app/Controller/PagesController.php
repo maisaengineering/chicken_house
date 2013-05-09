@@ -72,4 +72,33 @@ class PagesController extends AppController {
 		$this->set(compact('page', 'subpage', 'title_for_layout'));
 		$this->render(implode('/', $path));
 	}
+	
+	function Home() {
+		$title_for_view = "Home";
+		$this->layout = 'default';
+	} 
+
+	function Aboutus() {
+		$title_for_view = "AboutUs";
+		$this->layout = 'default';
+	} 
+
+	function Contactus() {
+		$title_for_view = "ContactUs";
+		$this->layout = 'default';
+	} 
+
+	function Ourbranches() {
+		$title_for_view = "OurBranches";
+		$this->layout = 'default';
+	}
+	
+	function Products() {
+		$title_for_view = "Products";
+		$this->layout = 'default';
+	}
+	
+	
+	
+	
 }
