@@ -97,6 +97,16 @@ class PagesController extends AppController {
 		$title_for_view = "Products";
 		$this->layout = 'default';
 	}
+
+	function Recipes() {
+		$title_for_view = "Recipes";
+		$this->layout = 'default';
+	}
+
+	function Foodsafety() {
+		$title_for_view = "Foodsafety";
+		$this->layout = 'default';
+	}
 	
 	
 	

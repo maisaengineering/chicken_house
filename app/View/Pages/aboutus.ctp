@@ -1,4 +1,4 @@
-<div class="mainbody2">	
+	
 			<div id="homeline">
 				<p>The <b>Akshath Poultry Traders</b> was established in 2006. It is a dynamic, forward-looking organization. Our poultry farming began in a small way, our commitment to quality and Service has been unquestioned.</p>
 				<p>The group consists of:</p>
@@ -20,5 +20,5 @@
 						<li style="list-style-image: url(img/accepted.png);">No use of artificial colors, preservatives</li>
 					</ul>
 			</div>
-		</div>
+		
 		

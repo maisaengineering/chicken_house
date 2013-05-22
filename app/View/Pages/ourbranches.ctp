@@ -1,12 +1,10 @@
 
-      <div class="mainbody2">	
+      	
 			
-			<table>
+			<table class="OuletsContainer">
 			<tr>
 			<td id="googlemapbox">
-				<div>
-				<iframe width="350" height="250" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://maps.google.com/maps/ms?hl=en&amp;ie=UTF8&amp;oe=UTF8&amp;msa=0&amp;msid=204446074307726245671.0004b7d25ee769929449c&amp;ll=17.484555,78.565821&amp;spn=0,0&amp;t=h&amp;output=embed"></iframe><br /><small><a href="http://maps.google.com/maps/ms?hl=en&amp;ie=UTF8&amp;oe=UTF8&amp;msa=0&amp;msid=204446074307726245671.0004b7d25ee769929449c&amp;ll=17.484555,78.565821&amp;spn=0,0&amp;t=h&amp;source=embed" style="color:#000;text-align:left;text-decoration:none;" target="_blank">View large map</a></small>
-        </div>
+				<img src="img/chicken_shop_lalapet.jpg" width="300px", height="300px" >
         </td>
 				<td>
 					<div class="branchestable1">
@@ -34,18 +32,14 @@
 					</div>
 				</td>
 				<td id="googlemapbox">
-				<div>
-				<iframe width="350" height="250" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://maps.google.com/maps/ms?hl=en&amp;ie=UTF8&amp;oe=UTF8&amp;msa=0&amp;msid=204446074307726245671.0004b7d25ee769929449c&amp;ll=17.484555,78.565821&amp;spn=0,0&amp;t=h&amp;output=embed"></iframe><br /><small><a href="http://maps.google.com/maps/ms?hl=en&amp;ie=UTF8&amp;oe=UTF8&amp;msa=0&amp;msid=204446074307726245671.0004b7d25ee769929449c&amp;ll=17.484555,78.565821&amp;spn=0,0&amp;t=h&amp;source=embed" style="color:#000;text-align:left;text-decoration:none;" target="_blank">View large map</a></small>
-        </div>
+				<img src="img/chicken_shop_lalapet.jpg" width="300px", height="300px" >
         </td>
 				</tr>
 				
 				
 				<tr>
 				<td id="googlemapbox">
-				<div>
-				<iframe width="350" height="250" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://maps.google.com/maps/ms?hl=en&amp;ie=UTF8&amp;oe=UTF8&amp;msa=0&amp;msid=204446074307726245671.0004b7d25ee769929449c&amp;ll=17.484555,78.565821&amp;spn=0,0&amp;t=h&amp;output=embed"></iframe><br /><small><a href="http://maps.google.com/maps/ms?hl=en&amp;ie=UTF8&amp;oe=UTF8&amp;msa=0&amp;msid=204446074307726245671.0004b7d25ee769929449c&amp;ll=17.484555,78.565821&amp;spn=0,0&amp;t=h&amp;source=embed" style="color:#000;text-align:left;text-decoration:none;" target="_blank">View large map</a></small>
-        </div>
+				<img src="img/chicken_shop_lalapet.jpg" width="300px", height="300px" >
         </td>
 				<td>
 					<div class="branchestable3">
@@ -71,18 +65,14 @@
 					</div>
 				</td>
 				<td id="googlemapbox">
-				<div>
-				<iframe width="350" height="250" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://maps.google.com/maps/ms?hl=en&amp;ie=UTF8&amp;oe=UTF8&amp;msa=0&amp;msid=204446074307726245671.0004b7d25ee769929449c&amp;ll=17.484555,78.565821&amp;spn=0,0&amp;t=h&amp;output=embed"></iframe><br /><small><a href="http://maps.google.com/maps/ms?hl=en&amp;ie=UTF8&amp;oe=UTF8&amp;msa=0&amp;msid=204446074307726245671.0004b7d25ee769929449c&amp;ll=17.484555,78.565821&amp;spn=0,0&amp;t=h&amp;source=embed" style="color:#000;text-align:left;text-decoration:none;" target="_blank">View large map</a></small>
-        </div>
+				<img src="img/chicken_shop_lalapet.jpg" width="300px", height="300px" >
         </td>
         </tr>
 				
 				
         <tr>
         <td id="googlemapbox">
-				<div>
-				<iframe width="350" height="250" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://maps.google.com/maps/ms?hl=en&amp;ie=UTF8&amp;oe=UTF8&amp;msa=0&amp;msid=204446074307726245671.0004b7d25ee769929449c&amp;ll=17.484555,78.565821&amp;spn=0,0&amp;t=h&amp;output=embed"></iframe><br /><small><a href="http://maps.google.com/maps/ms?hl=en&amp;ie=UTF8&amp;oe=UTF8&amp;msa=0&amp;msid=204446074307726245671.0004b7d25ee769929449c&amp;ll=17.484555,78.565821&amp;spn=0,0&amp;t=h&amp;source=embed" style="color:#000;text-align:left;text-decoration:none;" target="_blank">View large map</a></small>
-        </div>
+				<img src="img/chicken_shop_lalapet.jpg" width="300px", height="300px" >
         </td>			
 				<td>
 					<div class="branchestable5">
@@ -108,18 +98,14 @@
 					</div>
 				</td>
 				<td id="googlemapbox">
-				<div>
-				<iframe width="350" height="250" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://maps.google.com/maps/ms?hl=en&amp;ie=UTF8&amp;oe=UTF8&amp;msa=0&amp;msid=204446074307726245671.0004b7d25ee769929449c&amp;ll=17.484555,78.565821&amp;spn=0,0&amp;t=h&amp;output=embed"></iframe><br /><small><a href="http://maps.google.com/maps/ms?hl=en&amp;ie=UTF8&amp;oe=UTF8&amp;msa=0&amp;msid=204446074307726245671.0004b7d25ee769929449c&amp;ll=17.484555,78.565821&amp;spn=0,0&amp;t=h&amp;source=embed" style="color:#000;text-align:left;text-decoration:none;" target="_blank">View large map</a></small>
-        </div>
+				<img src="img/chicken_shop_lalapet.jpg" width="300px", height="300px" >
         </td>
         </tr>
 				
 				
 			<tr>
 			 <td id="googlemapbox">
-				  <div>
-				  <iframe width="350" height="250" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://maps.google.com/maps/ms?hl=en&amp;ie=UTF8&amp;oe=UTF8&amp;msa=0&amp;msid=204446074307726245671.0004b7d25ee769929449c&amp;ll=17.484555,78.565821&amp;spn=0,0&amp;t=h&amp;output=embed"></iframe><br /><small><a href="http://maps.google.com/maps/ms?hl=en&amp;ie=UTF8&amp;oe=UTF8&amp;msa=0&amp;msid=204446074307726245671.0004b7d25ee769929449c&amp;ll=17.484555,78.565821&amp;spn=0,0&amp;t=h&amp;source=embed" style="color:#000;text-align:left;text-decoration:none;" target="_blank">View large map</a></small>
-         </div>
+				  <img src="img/chicken_shop_lalapet.jpg" width="300px", height="300px" >
          </td>
 				<td>
 				  <div class="branchestable7">
@@ -144,11 +130,9 @@
 			      <b>Phone</b>: (+91) 8008 344 449
 			</td>	    
 			 <td id="googlemapbox">
-				<div>
-				<iframe width="350" height="250" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://maps.google.com/maps/ms?hl=en&amp;ie=UTF8&amp;oe=UTF8&amp;msa=0&amp;msid=204446074307726245671.0004b7d25ee769929449c&amp;ll=17.484555,78.565821&amp;spn=0,0&amp;t=h&amp;output=embed"></iframe><br /><small><a href="http://maps.google.com/maps/ms?hl=en&amp;ie=UTF8&amp;oe=UTF8&amp;msa=0&amp;msid=204446074307726245671.0004b7d25ee769929449c&amp;ll=17.484555,78.565821&amp;spn=0,0&amp;t=h&amp;source=embed" style="color:#000;text-align:left;text-decoration:none;" target="_blank">View large map</a></small>
-        </div>
+				<img src="img/chicken_shop_lalapet.jpg" width="300px", height="300px" >
         </td>
         </tr>
 			</table>
-		</div>
+		
 		

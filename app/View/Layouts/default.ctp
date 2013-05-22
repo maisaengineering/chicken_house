@@ -14,51 +14,62 @@
 		echo $this->fetch('meta');
 		echo $this->fetch('css');
 		echo $this->fetch('script');
+		echo $this->Html->meta('favicon.ico', '/favicon.ico');
 	?>
 </head>
 <body>
 
-	<div class="main">
-		<div class="mainbody">
+	<div class="HeadContainer">
+		<div class="HeaderBody">
 			<table>
 				<td>
-					<span id="logo"><a href="Home"><img src="img/logo.png"/></a></span>
+					<span id="logo"><a href="Home"><img src="img/logo_chicken.png"/></a></span>
 				</td>
-				<td class="headertable2">
-				Email: chickenhouse@rediffmail.com<br>
-				Contact Us: 040-6521 1119
+				<td class="HeaderContactDetails">
+				Email: Contact@ChickenHouse.in<br>
+				Contact Us: 040-6521 1119<br/>
+				<a href="http://www.facebook.com/chickenhousepoultry" target="_blank"><img src="img/fb_ch_logo.png"/></a>
 				</td>
+
 			</table>
 			<div id="menubar">
 				<ul id="menu">
 					<li>
-						<a href="Home">Home</a>
+						<a href="Home">HOME</a>
 					</li>
 					<li>
-					  <a href="Products">Products</a>
+					  <a href="Products">PRODUCTS</a>
 					</li>
 					<li>
-						<a href="AboutUs">About Us</a>
+						<a href="Recipes">RECIPES</a>
 					</li>
 					<li>
-						<a href="ContactUs">ContactUs</a>
+						<a href="Foodsafety">FOOD SAFETY</a>
 					</li>
 					<li>
-						<a href="OurBranches">OurBranches</a>
+						<a href="AboutUs">ABOUT US</a>
+					</li>
+					<li>
+						<a href="ContactUs">CONTACT US</a>
+					</li>
+					<li>
+						<a href="OurBranches">OUTLETS</a>
 					</li>
 				</ul>
 			</div>
 		</div>
 	</div>
 
-	<?php echo $this->Session->flash(); ?>
-	<?php echo $this->fetch('content'); ?>
 
+	<div class="mainbody2">	
+		<?php echo $this->Session->flash(); ?>
+		<?php echo $this->fetch('content'); ?>
+	</div>
 	<div class="footermain">
 		<div class="mainbody3">
 			<div id="footer">		
 				<div id="creditcards">
-					<img src="img/creditcards1.png" height="50px;">
+					<img src="img/background_image_ch.png" width="1000px;">
 				</div>
 				<footer>&#169; 2012 Chicken House. All rights reserved.</footer>
 			</div>
